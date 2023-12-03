@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bwhQfvNKGR+4tKocgmclLzCn/z/wLNOFz+xIBsUMXlOzPGzS48gMFh8Mk0lMIcPUv/osdACPn+yCiUsGoFAk5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZahraSayed\\Desktop\\zahra\\Develop\\Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.decisiont.com/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
